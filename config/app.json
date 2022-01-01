@@ -138,6 +138,12 @@
       "name": "Twitter",
       "uri": "https://twitter.com/azurelighting",
       "image": ""
+    },
+    {
+      "icon": "linkedin",
+      "name": "LinkedIn",
+      "uri": "https://www.linkedin.com/in/manuel-tondelli-5a7696185/",
+      "image": ""
     }
   ],
   "custom_css": "",
