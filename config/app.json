@@ -11,7 +11,7 @@
     "background": "/uploads/jacky-zeng-tqsfdwxryq4-unsplash.jpg",
     "contacts": {
       "name": true,
-      "rounded": false,
+      "rounded": true,
       "full": true,
       "allsame": false
     },
