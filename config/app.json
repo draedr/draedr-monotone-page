@@ -132,6 +132,12 @@
       "name": "Phone",
       "uri": "tel:123-456-7890",
       "image": ""
+    },
+    {
+      "icon": "twitter",
+      "name": "Twitter",
+      "uri": "https://twitter.com/azurelighting",
+      "image": ""
     }
   ],
   "custom_css": "",
