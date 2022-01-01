@@ -43,6 +43,17 @@
       "content": ""
     },
     {
+      "name": "Draedr",
+      "content": "github.com/draedr",
+      "url": "https://github.com/draedr",
+      "invert": false,
+      "darker": false,
+      "image": "/uploads/github.svg",
+      "color": "slate",
+      "classes": "",
+      "type": "link"
+    },
+    {
       "name": "Telegram",
       "content": "@AzureLighting",
       "url": "https://t.me/AzureLighting",
