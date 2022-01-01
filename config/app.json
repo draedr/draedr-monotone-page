@@ -54,15 +54,15 @@
       "content": ""
     },
     {
-      "name": "@kettlevoid@koyu.space",
-      "url": "https://koyu.space/web/@kettlevoid",
+      "name": "Telegram",
+      "content": "@AzureLighting",
+      "url": "https://t.me/AzureLighting",
       "invert": true,
-      "image": "/uploads/logo-mastodon.svg",
-      "color": "sky",
-      "darker": true,
+      "darker": false,
+      "image": "/uploads/icons8-telegram-app.svg",
+      "color": "blue",
       "classes": "p-4",
-      "type": "link",
-      "content": ""
+      "type": "link"
     },
     {
       "name": "Personal",
@@ -83,6 +83,17 @@
       "color": "blue",
       "classes": "",
       "darker": false,
+      "type": "link",
+      "content": ""
+    },
+    {
+      "name": "@kettlevoid@koyu.space",
+      "url": "https://koyu.space/web/@kettlevoid",
+      "invert": true,
+      "image": "/uploads/logo-mastodon.svg",
+      "color": "sky",
+      "darker": true,
+      "classes": "p-4",
       "type": "link",
       "content": ""
     },
@@ -121,12 +132,6 @@
       "name": "Phone",
       "uri": "tel:123-456-7890",
       "image": ""
-    },
-    {
-      "icon": "email",
-      "name": "Email",
-      "uri": "mailto:mtondelli1420@gmail.com",
-      "image": "/uploads/email.svg"
     }
   ],
   "custom_css": "",
